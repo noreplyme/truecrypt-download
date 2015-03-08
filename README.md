@@ -20,3 +20,6 @@ Linux 64
 sha1: 086cf24fad36c2c99a6ac32774833c74091acc4d  
 sha256: 43f895cfcdbe230907c47b4cd465e5c967bbe741a9b68512c09f809d1a2da1e9  
 md5: bb355096348383987447151eecd6dc0e
+
+
+visit https://www.truecrypt71a.com for downloads.
